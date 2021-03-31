@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521310819102",
+    "project_id": "emailpass-c9c16",
+    "storage_bucket": "emailpass-c9c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521310819102:android:e51c91d1cfd8d711632f0f",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521310819102-496rluhvo41lc6q7lgcmrk889r439rqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUYUgG15jHkjouzMl5Hj6moJvQkkC8Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521310819102-496rluhvo41lc6q7lgcmrk889r439rqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
